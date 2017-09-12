@@ -21,7 +21,7 @@ Obviously you need the required language runtimes and compilers to run their
 implementations - the following is tested on Ubuntu 16.04 and uses the classic
 packaged versions:
 
-    $ sudo apt-get install --yes ghc gcc python3 openjdk-9-jdk
+    $ sudo apt-get install --yes ghc gcc python3 openjdk-9-jdk-headless
 
 After all requirements are satisfied, the following should work:
 
