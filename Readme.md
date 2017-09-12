@@ -5,7 +5,7 @@ for the 2x2x2 cube problem by enumerating all (3674160) configurations.
 
 # Problem
 
-The problem is described [here](https://github.com/protomikron/r222-bench) and
+The problem is described [here](https://en.wikipedia.org/wiki/Pocket_Cube) and
 currently there are implementations for
 
 - Python3: r222.py
