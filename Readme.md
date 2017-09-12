@@ -119,9 +119,9 @@ This may take some time.
 
 # FAQ:
 
-Q: Why?
-A: Why not? But seriously the idea is to explore different strategies to build
-   game trees in different languages.
+- Q: Why?
+- A: Why not? But seriously the idea is to explore different strategies to build
+     game trees in different languages.
 
 # License
 
